@@ -270,7 +270,6 @@ function genererTable(item) {
 // en fonction de la liste qu'on lui fournit (ici une liste de Ref/id, que l'on va croiser
 // avec la liste de produits générés au démarrage)
 // choisit les bonnes tailles de colonnes en fonction du nombre de produits choisis
-// à finir : présentation avec toutes les propriétés + tailles colonnes
 function genererCardComparatif(liste) {
     var liste2 = [];
     for(var i=0;i<liste.length;i++)
@@ -302,13 +301,6 @@ function genererCardComparatif(liste) {
         html += '<div class="card-title text-white">'+liste2[i].nom+'</div>';
         html += '<div class="card-subtitle text-muted">Référence : '+liste2[i].ref+'</div></div>';
         html += genererTable(liste2[i]);
-        /*html += '<ul class="list-group list-group-flush">';
-        html += '<li class="list-group-item">Prix : '+liste2[i].prix+' $</li>';
-        html += '<li class="list-group-item">Taille de '+"l'écran : "+liste2[i].ecran.taille+'"</li>';
-        html += '<li class="list-group-item">Système '+"d'exploitation : "+liste2[i].os+'</li>';
-        html += '<li class="list-group-item">Stockage : '+liste2[i].stockage+'</li>';
-        html += '<li class="list-group-item">Mémoire vive : '+liste2[i].ram.quantitee+'</li>';
-        html += '<li class="list-group-item">Processeur : '+liste2[i].processeur.type+'</li></ul>';*/
         html += '<div class="card-body text-center"><img src='+liste2[i].img+' class="card-img-top"></div>'
         html += '</div></div></div>';
     }
