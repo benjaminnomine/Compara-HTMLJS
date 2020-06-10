@@ -1,0 +1,50 @@
+
+Apple MacBook Pro 16 Touch Bar 512 Go Argent (2019)
+Réf APPLE : MVVL2FN/A
+PC Portable 16'' Retina (3072 x 1920) - Intel Core i7 Hexa Core 2.6 GHz - 16 Go DDR4 - SSD 512 Go - AMD Radeon Pro 5300M - 2.0 Kg - MacOS
+Prix : 2689.99
+
+ Processeur
+Type : Intel Core i7 9ème génération
+Fréquence : 2.6 GHz / Turbo à 4.5 GHz
+Coeurs : Hexa Core
+Cache : 12 Mo
+Chipset
+Type : Intel UHD Graphics 630
+Carte graphique
+Type : AMD Radeon Pro 5300M
+Mémoire : 4 Go GDDR6
+Mémoire (RAM)
+Type : 16 Go DDR4 (2666 MHz)
+Stockage
+Type : SSD 512 Go PCIe
+Ecran
+Type : Ecran Retina rétroéclairé par LED de 16 pouces (40.64 cm) / IPS / 60 Hz
+Résolution : Retina (3072 x 1920)
+Ecran tactile : Non
+Système d'exploitation
+Type : MacOS
+Audio
+Type : Système à six haut-parleurs haute fidélité avec woofers
+Traitement audio : Dolby Atmos
+Connectique
+USB : 4 (4 x USB 3.1 Gen2 Type-C Thunderbolt 3) / Prise en charge DisplayPort - HDMI - VGA via adaptateurs (vendus séparément)
+Audio : 1 (jack 3.5 mm)
+Connectivité
+Ethernet : Non
+Wifi : Wi-Fi 802.11ac
+Bluetooth : Bluetooth 5.0
+Matériel
+Clavier : Clavier AZERTY chiclet / Magic Keyboard
+Clavier rétroéclairé : Oui
+Webcam : Caméra FaceTime HD 720p
+Lecteur optique : Non
+Touch Bar : Oui (avec Touch ID)
+Alimentation
+Type : Batterie lithium polymère intégrée 100 Wh
+Adaptateur d'alimentation : 96W (longueur du câble : 2 mètres)
+Autonomie : Jusqu'à 11 heures environ (estimation constructeur)
+Dimensions
+Dimensions : 357.9 x 245.9 x 16.2 mm
+Poids
+Poids : 2.0 Kg

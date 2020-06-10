@@ -1,0 +1,47 @@
+
+Apple MacBook Pro 13 Touch Bar 512 Go Gris sidéral (2019)
+Réf APPLE : MV972FN/A
+PC Ultra portable 13.3'' Rétina (2560 x 1600) - Intel Core i5 Quad Core 2.4 GHz - 8 Go LPDDR3 - SSD 512 Go - 1.37 Kg - MacOS
+Prix : 1999.99
+
+ Processeur
+Type : Intel Core i5 8ème génération
+Fréquence : 2.4 GHz / Turbo à 4.1 GHz
+Coeurs : Quad Core
+Chipset
+Type : Intel Iris Plus Graphics 655
+Carte graphique
+Type : Pas de carte graphique dédiée
+Mémoire (RAM)
+Type : 8 Go LPDDR3 (2133 MHz)
+Stockage
+Type : SSD 512 Go PCIe
+Ecran
+Type : Ecran Retina rétroéclairé par LED de 13.3 pouces (33.8 cm) / IPS
+Résolution : Retina (2560 x 1600)
+Ecran tactile : Non
+Système d'exploitation
+Type : MacOS
+Audio
+Type : Haut-parleurs stéréo à gamme dynamique élevée
+Connectique
+USB : 4 (4 x USB 3.1 Gen2 Type-C Thunderbolt 3) / Prise en charge DisplayPort - HDMI - VGA via adaptateurs (vendus séparément)
+Audio : 1 (jack 3.5 mm)
+Connectivité
+Ethernet : Non
+Wifi : Wi-Fi 802.11ac
+Bluetooth : Bluetooth 5.0
+Matériel
+Clavier : Clavier AZERTY chiclet
+Clavier rétroéclairé : Oui
+Webcam : Caméra FaceTime HD 720p
+Lecteur optique : Non
+Touch Bar : Oui (avec Touch ID)
+Alimentation
+Type : Batterie lithium polymère intégrée 58 Wh
+Adaptateur d'alimentation : 61W (longueur du câble : 2 mètres)
+Autonomie : Jusqu'à 10 heures environ (estimation constructeur)
+Dimensions
+Dimensions : 304.1 x 212.4 x 14.9 mm
+Poids
+Poids : 1.37 Kg

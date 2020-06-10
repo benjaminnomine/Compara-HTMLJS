@@ -1,0 +1,57 @@
+Acer Aspire 5 (A514-52-57KR) Noir
+Réf ACER : NX.HLZEF.003
+
+
+PC Ultra Portable 14'' WXGA (1366 x 768) - Intel Core i5-10210U Quad Core 1.6 GHz - 8 Go DDR4 - SSD 1 To - 1.5 Kg - Windows 10
+Prix:729.99
+
+Fiche technique Acer Aspire 5 (A514-52-57KR) Noir
+Caractéristiques Techniques
+Processeur
+Type : Intel Core i5-10210U
+Fréquence : 1.6 GHz / Turbo à 4.2 GHz
+Coeurs : Quad Core / 8 Threads
+Cache : 8 Mo
+Chipset
+Type : Intel UHD Graphics 620 (300-1100 MHz)
+Carte graphique
+Type : Pas de carte graphique dédiée
+Mémoire (RAM)
+Type : 8 Go DDR4 (2133 MHz)
+Configuration : 1 x 8 Go / 1 slot (occupé) / Non extensible
+Stockage
+Type : SSD 1 To PCIe Gen3.0x4 NVMe M.2
+Ecran
+Type : Ecran LCD 14 pouces (35.6 cm) / TN / 60 Hz
+Résolution : WXGA (1366 x 768)
+Type de dalle : Anti-reflet
+Ecran tactile : Non
+Système d'exploitation
+Type : Windows 10 Famille (64-bit)
+Audio
+Type : 2 Haut-parleurs stéréo
+Traitement audio : Acer TrueHarmony
+Connectique
+HDMI : 1 (HDMI 1.4)
+USB : 4 (1 x USB 3.1 Gen1 Type-C / 2 x USB 3.1 Gen1 Type-A / 1 x USB 2.0 Type-A)
+Audio : 1 (combo casque / microphone)
+Ethernet LAN RJ45 : 1
+Connectivité
+Ethernet : Gigabit Ethernet (10/100/1000 Mbt/s)
+Wifi : Wi-Fi IEEE 802.11ac
+Bluetooth : Bluetooth 5.0
+Matériel
+Clavier : Clavier AZERTY chiclet
+Clavier rétroéclairé : Non
+Webcam : Webcam HD 720p
+Lecteur optique : Non
+Lecteur d'empreinte digitale : Non
+Alimentation
+Type : Batterie Lithium 4 cellules / 48Wh
+Adaptateur d'alimentation : 45W
+Autonomie : Jusqu’à 9 heures environ (estimation constructeur)
+Batterie amovible : Non
+Dimensions
+Dimensions : 328.8 x 236 x 17.95 mm
+Poids
+Poids : 1.5 Kg

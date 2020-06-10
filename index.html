@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <title>Test</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <script src="node_modules/@fortawesome/fontawesome-free/js/all.js"></script>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.css">
+    <link rel="stylesheet" href="css/custom.css">
+    <link rel="stylesheet" href="css/stylesheets.css">
+  </head>
+  <body>
+
+    <body>
+        <nav class="navbar navbar-expand-md navbar-light  bg-light sticky-top shadow ">
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
+                aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            
+            <div class="collapse navbar-collapse mx-auto" id="navbarsExampleDefault">
+                <!-- insérer un logo -->
+                <img src="images/logo.png" style="width: 200px;">
+                <ul class="navbar-nav mr-auto mx-auto">
+                    <li class="nav-item active">
+                        <a class="nav-link " href="#">Page d'accueil<span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item active">
+                        <a class ="nav-link" href="#contact">Contact<span class="sr-only">(current)</span></a>
+                    </li>
+                </ul>
+                <!-- déplacer les boutons et les stick en haut à droite ? + les rendre réactifs au nombre de cases cochées -->
+                <button class="btn btn-secondary" id="buttonvider" style="display: none" onclick="viderCheckBox()"><i class="fas fa-dumpster"></i><span class="badge badge-light"></span></button>
+                <button class="btn btn-secondary ml-2" id="buttoncompare" style="display: none" onclick="afficherComparatif()"><i class="fas fa-chart-pie"></i><span id="counter" class="badge badge-primary"></span></button>
+                <button class="btn btn-secondary ml-2" id="buttonfermer" style="display: none" onclick="fermerComparatif()"><i class="fas fa-window-close"></i></button>
+            </div>
+        </nav>
+        <main role="main">
+            <div class="container-fluid mt-2 row mx-auto">
+                <div class="row mx-auto" id="conteneur">
+                    <!-- struture initiale pour référence de design
+                    <div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                        <div class="pt-1 pb-1">
+                            <div class="card">
+                                <div class="card-header h-25 bg-primary text-white">
+                                    <div class="card-title">
+                                        Nom produit
+                                    </div>
+                                    <div class="card-subtitle text-muted">
+                                        Référence
+                                    </div>
+                                    <form class="cbComparer">
+                                        <div class="checkbox">
+                                            <label><input type="checkbox"></label>
+                                        </div>
+                                    </form>
+                                </div>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">Taille écran</li>
+                                    <li class="list-group-item">Prix</li>
+                                    <li class="list-group-item">OS</li>
+                                  </ul>
+                                <div class="card-body">
+                                    <img src="images/img11.jpg" class="card-img-top">
+                                </div>
+                            </div>
+                        </div>
+                    </div>-->
+                </div>
+            </div>
+        </main>
+        <!-- div modal de bootstrap qui contient les données voulues, on récupère les infos avec l'id du bouton cliqué
+        qui est en fait la référence aléatoire du produit affiché -->
+        <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+              <div class="modal-content">
+                <div class="modal-header bg-primary text-white">
+                    <h5 class="modal-title" id="exampleModalLongTitle">Modal title</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    </div>
+                    <div class="modal-body">
+                        <div>
+                            <table class="table-striped table-sm table-hover table table-bordered">
+                                <tr>
+                                    <td>Processeur</td>
+                                    <td>
+                                        <ul>
+                                            <li class="proc"></li>
+                                            <li class="freqproc"></li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Mémoire</td>
+                                    <td>
+                                        <ul>
+                                            <li class="ramnom"></li>
+                                            <li class="ramfreq"></li>
+                                            <li class="ramqte"></li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Ecran</td>
+                                    <td>
+                                        <ul>
+                                            <li class="tailleecran"></li>
+                                            <li class="resolecran"></li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Stockage</td>
+                                    <td>
+                                        <ul>
+                                            <li class="listockage"></li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Système d'exploitation</td>
+                                    <td>
+                                        <ul>
+                                            <li class="osnom"></li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Connectique</td>
+                                    <td>
+                                        <ul>
+                                            <li class="connectusb"></li>
+                                            <li class="connectethernet"></li>
+                                            <li class="connecthdmi"></li>
+                                            <li class="connectaudio"></li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>Connectivité</td>
+                                    <td>
+                                        <ul>
+                                            <li class="connectiwifi"></li>
+                                            <li class="connectibt"></li>
+                                        </ul>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div style="overflow: auto;">
+            <div class="container-fluid row-fluid" id="comparer" style="display: none;">
+    
+            </div>
+        </div>
+        <button id="bttop" class="btn btn-secondary shadow" data-scroll="up" type="button" style="display: none">
+            <i class="fa fa-chevron-up"></i>
+        </button>
+    
+        <footer class="footer fixed-bottom mt-2">
+            <div class="container-fluid row justify-content-between">
+                <div id="contact" class="col-lg-4 text-muted row ml-2">
+                    Rejoignez-nous sur les réseaux sociaux :
+                    <div class="inline ml-1 mr-1">
+                        <a href="#"><i class="fab fa-2x fa-twitter hvr-grow-rotate"></i></a>
+                    </div>
+                    <div class="inline ml-1 mr-1">
+                        <a href="#"><i class="fab fa-2x fa-facebook hvr-grow-rotate"></i></a>
+                    </div>
+                    <div class="inline ml-1 mr-1">
+                        <a href="#"><i class="fab fa-2x fa-linkedin hvr-grow-rotate"></i></a>
+                    </div>
+                    <div class="inline ml-1 mr-1">
+                        <a href="#"><i class="fab fa-2x fa-github hvr-grow-rotate"></i></a>
+                    </div>
+                    <svg width="0" height="0">
+                        <radialGradient id="rg" r="150%" cx="30%" cy="107%">
+                          <stop stop-color="#fdf497" offset="0" />
+                          <stop stop-color="#fdf497" offset="0.05" />
+                          <stop stop-color="#fd5949" offset="0.45" />
+                          <stop stop-color="#d6249f" offset="0.6" />
+                          <stop stop-color="#285AEB" offset="0.9" />
+                        </radialGradient>
+                    </svg>
+                    <div class="instagram inline ml-1 mr-1">
+                        <a href="#"><i class="fab fa-2x fa-instagram hvr-grow-rotate"></i></a>
+                    </div>
+                </div>
+
+                <div class="col-lg-offset-4 col-lg-4 text-right">
+                    <span class="text-muted">Copyright</span>
+                    <i class="fas fa-copyright text-muted"></i>
+                    <a href="mailto:benjamin.nomine@outlook.fr"><i class="fas fa-envelope text-muted" aria-hidden="true"></i><span class="text-muted ml-1">Benjamin Nominé</span></a>
+                </div>
+            </div>
+        </footer>
+        
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="node_modules/jquery/dist/jquery.js"></script>
+    <script src="node_modules/popper.js/dist/umd/popper.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="js/custom.js"></script>
+  </body>
+</html>

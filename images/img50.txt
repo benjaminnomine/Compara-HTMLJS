@@ -1,0 +1,55 @@
+Dell Inspiron 15 (3593-6588) Noir
+
+PC Portable 15.6'' Full HD (1920 x 1080) - Intel Core i5-1035G1 Quad Core 1.0 GHz - 8 Go DDR4 - SSD 512 Go - 2.0 Kg - Windows 10
+Prix:699.99
+
+Fiche technique Dell Inspiron 15 (3593-6588) Noir
+Caractéristiques Techniques
+Processeur
+Type : Intel Core i5-1035G1
+Fréquence : 1.0 GHz / Turbo à 3.6 GHz
+Coeurs : Quad Core / 8 Threads
+Cache : 6 Mo
+Chipset
+Type : Intel UHD Graphics (300-900 MHz)
+Carte graphique
+Type : Pas de carte graphique dédiée
+Mémoire (RAM)
+Type : 8 Go DDR4 (2666 MHz)
+Configuration : 1 x 8 Go / 2 slots (1 occupé / 1 disponible) / Extension possible jusqu'à 16 Go
+Stockage
+Type : SSD 512 Go PCIe Gen3.0x4 NVMe M.2
+Ecran
+Type : Ecran LCD 15.6 pouces (39.6 cm) / TN / 60 Hz
+Résolution : Full HD (1920 x 1080)
+Type de dalle : Anti-reflet
+Ecran tactile : Non
+Système d'exploitation
+Type : Windows 10 Famille (64-bit)
+Audio
+Type : 2 Haut-parleurs stéréo
+Traitement audio : Waves MaxxAudio Pro
+Connectique
+HDMI : 1 (HDMI 1.4)
+USB : 3 (2 x USB 3.0 Type-A / 1 x USB 2.0 Type-A)
+Carte mémoire : 1 (SD / SDHC / SDXC)
+Audio : 1 (combo casque / microphone)
+Ethernet LAN RJ45 : 1
+Connectivité
+Ethernet : Fast Ethernet (10/100 Mbit/s)
+Wifi : Wi-Fi IEEE 802.11ac
+Bluetooth : Bluetooth 4.1
+Matériel
+Clavier : Clavier AZERTY chiclet
+Clavier rétroéclairé : Non
+Webcam : Webcam HD 720p / 30 ips
+Lecteur optique : Non
+Lecteur d'empreinte digitale : Non
+Alimentation
+Type : Batterie Lithium-ion 3 cellules / 42Wh
+Adaptateur d'alimentation : 45W
+Batterie amovible : Non
+Dimensions
+Dimensions : 380 x 258 x 19.9 mm
+Poids
+Poids : 2.0 Kg

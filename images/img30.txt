@@ -1,0 +1,60 @@
+Asus ZenBook Duo (UX481FA-BM017T) Bleu céleste
+Réf ASUS : UX481FA-BM017T
+
+
+PC Ultra Portable 14'' Full HD (1920 x 1080) - Intel Core i5-10210U Quad Core 1.6 GHz - 16 Go LPDDR3 - SSD 512 Go - 1.5 Kg - Windows 10
+Prix : 1249.99
+
+Fiche technique Asus ZenBook Duo (UX481FA-BM017T) Bleu céleste
+Caractéristiques Techniques
+Processeur
+Type : Intel Core i5-10210U
+Fréquence : 1.6 GHz / Turbo à 4.2 GHz
+Coeurs : Quad Core / 8 Threads
+Cache : 8 Mo
+Chipset
+Type : Intel UHD Graphics 620 (300-1100 MHz)
+Carte graphique
+Type : Pas de carte graphique dédiée
+Mémoire (RAM)
+Type : 16 Go LPDDR3 (2133 MHz)
+Configuration : 1 x 16 Go / Barrette soudée / Non extensible
+Stockage
+Type : SSD 512 Go PCIe Gen3.0x4 NVMe M.2
+Ecran principal
+Type : Ecran LCD 14 pouces (35.6 cm) / IPS / 60 Hz
+Résolution : Full HD (1920 x 1080)
+Type de dalle : Anti-reflet
+Ecran tactile : Non
+ScreenPad Plus
+Type : Ecran LCD 12.6 pouces (32 cm) / IPS / 60 Hz
+Résolution : Full HD (1920 x 550)
+Ecran tactile : Oui
+Système d'exploitation
+Type : Windows 10 Famille (64-bit)
+Audio
+Type : 2 Haut-parleurs stéréo
+Traitement audio : Asus Sonic Master / Harman Kardon
+Connectique
+HDMI : 1 (HDMI 1.4)
+USB : 3 (1 x USB 3.1 Gen2 Type-C / 1 x USB 3.1 Gen2 Type-A / 1 x USB 3.1 Gen1 Type-A)
+Carte mémoire : 1 (Micro SD / SDHC / SDXC)
+Audio : 1 (combo casque / microphone)
+Connectivité
+Ethernet : Non
+Wifi : Wi-Fi IEEE 802.11ax (Wi-Fi 6)
+Bluetooth : Bluetooth 5.0
+Matériel
+Clavier : Clavier AZERTY chiclet
+Clavier rétroéclairé : Oui
+Webcam : Webcam HD 720p
+Lecteur optique : Non
+Lecteur d'empreinte digitale : Non
+Alimentation
+Type : Batterie Lithium-ion 4 cellules 70Wh
+Adaptateur d'alimentation : 65W
+Batterie amovible : Non
+Dimensions
+Dimensions : 323 x 223 x 19.5 mm
+Poids
+Poids : 1.5 Kg

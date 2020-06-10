@@ -1,0 +1,56 @@
+
+MSI GF75 9SC-411FR Thin
+Réf MSI : 9S7-17F212-411
+PC Portable Gamer 17.3'' Full HD (1920 x 1080) - Intel Core i7-9750H Hexa Core 2.6 GHz - 16 Go DDR4 - SSD 512 Go - Nvidia GeForce GTX 1650 - 2.2 Kg - Windows 10
+prix : 1349.90
+
+ Processeur
+Type : Intel Core i7-9750H
+Fréquence : 2.6 GHz / Turbo à 4.5 GHz
+Coeurs : Hexa Core / 12 Threads
+Cache : 9 Mo
+Chipset
+Type : Intel HM370
+Carte graphique
+Type : Nvidia GeForce GTX 1650
+Mémoire : 4 Go GDDR5
+Mémoire (RAM)
+Type : 16 Go DDR4 (2666 MHz)
+Configuration : 2 x 8 Go / 2 slots (occupés) / Extension possible jusqu'à 32 Go
+Stockage
+Type : SSD 512 Go PCIe Gen3.0x4 NVMe M.2
+Remarque : Le port SSD M.2 (occupé sur ce modèle) est compatible SATA III et PCIe Gen3.0x4 NVMe
+Remarque 2 : Présence d'un port SATA III 2.5'' libre pour l'installation d'un disque dur
+Ecran
+Type : Ecran LCD 17.3 pouces (43.9 cm) / IPS / 60 Hz
+Résolution : Full HD (1920 x 1080)
+Type de dalle : Anti-reflet
+Ecran tactile : Non
+Système d'exploitation
+Type : Windows 10 Famille (64-bit)
+Audio
+Type : 2 Haut-parleurs stéréo 2 x 2W
+Traitement audio : Nahimic 3 Audio Enhancer / Audio Boost
+Connectique
+HDMI : 1 (HDMI 1.4 / 4K / 30 Hz)
+USB : 4 (1 x USB 3.1 Gen1 Type-C / 3 x USB 3.1 Gen1 Type-A)
+Audio : 2 (1 x sortie casque / 1 x entrée microphone)
+Ethernet LAN RJ45 : 1
+Connectivité
+Ethernet : Gigabit Ethernet (10/100/1000 Mbps) / Killer E2500 + Killer Shield
+Wifi : Wi-Fi IEEE 802.11ac
+Bluetooth : Bluetooth 5.0
+Matériel
+Clavier : Clavier AZERTY chiclet SteelSeries
+Clavier rétroéclairé : Oui (rétroéclairage LED rouge)
+Webcam : Webcam HD 720p / 30fps
+Lecteur optique : Non
+Lecteur d'empreinte digitale : Non
+Alimentation
+Type : Batterie Lithium-ion 3 cellules / 51Wh
+Adaptateur d'alimentation : 135W
+Batterie amovible : Non
+Dimensions
+Dimensions : 397 x 260 x 23.1 mm
+Poids
+Poids : 2.2 Kg

@@ -1,0 +1,51 @@
+
+Asus Chromebook C423 (C423NA-EC0109) Argent
+Réf ASUS : C423NA-EC0109
+PC Ultra Portable 14'' WXGA (1366 x 768) - Intel Celeron N3350 Dual Core 1.1 GHz - 4 Go LPDDR4 - eMMC 64 Go - 1.34 Kg - Chrome OS
+Prix : 399.99
+
+ Processeur
+Type : Intel Pentium N4200
+Fréquence : 1.1 GHz / Turbo à 2.5 GHz
+Coeurs : Quad Core / 4 Threads
+Cache : 2 Mo
+Chipset
+Type : Intel HD Graphics 505 (200-750 MHz)
+Carte graphique
+Type : Pas de carte graphique dédiée
+Mémoire (RAM)
+Type : 8 Go LPDDR4 (2400 MHz)
+Configuration : 1 x 8 Go / Non extensible
+Stockage
+Type : eMMC 32 Go (mémoire flash)
+Ecran
+Type : Ecran LCD 14 pouces (35.6 cm) / TN / 60 Hz
+Résolution : WXGA (1366 x 768)
+Type de dalle : Anti-reflet
+Ecran tactile : Non
+Système d'exploitation
+Type : Chrome OS
+Audio
+Type : Haut-parleurs stéréo
+Connectique
+USB : 4 (2 x USB 3.1 Gen1 Type-C / 2 x USB 3.1 Gen1 Type-A)
+Carte mémoire : 1 (Micro SD / SDHC / SDXC)
+Audio : 1 (combo casque / microphone)
+Connectivité
+Ethernet : Non
+Wifi : Wi-Fi IEEE 802.11ac
+Bluetooth : Bluetooth 4.0
+Matériel
+Clavier : Clavier AZERTY chiclet
+Clavier rétroéclairé : Non
+Webcam : Webcam HD
+Lecteur optique : Non
+Lecteur d'empreinte digitale : Non
+Alimentation
+Type : Batterie Lithium-ion 2 cellules / 38Wh
+Adaptateur d'alimentation : 45W
+Batterie amovible : Non
+Dimensions
+Dimensions : 322 x 228 x 16.1 mm
+Poids
+Poids : 1.34 Kg
